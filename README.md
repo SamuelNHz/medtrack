@@ -2,7 +2,7 @@
 
 > Controle de Medicamentos para Idosos — CLI simples e confiável
 
-![CI](https://github.com/SEU_USUARIO/medtrack/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/SamuelNHz/medtrack/actions/workflows/ci.yml/badge.svg)
 
 ---
 
@@ -43,7 +43,7 @@ O **MedTrack** é uma aplicação de linha de comando (CLI) que permite cadastra
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/medtrack.git
+git clone https://github.com/SamuelNHz/medtrack.git
 cd medtrack
 
 # (Opcional) Crie um ambiente virtual
@@ -97,4 +97,4 @@ Disciplina: Bootcamp II — CEUB EaD 2026/1
 
 ## 🔗 Repositório
 
-[https://github.com/SEU_USUARIO/medtrack](https://github.com/SEU_USUARIO/medtrack)
+[https://github.com/SamuelNHz/medtrack](https://github.com/SamuelNHz/medtrack)
